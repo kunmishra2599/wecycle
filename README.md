@@ -3,7 +3,7 @@
 Created: 13:40 14/10/17 - 12:00 15/10/17
 Built by: Kunal Mishra and Shiv Alagar for iNTUition 2017
 
-This is a tool to help make cycling easier and more fun for you, by helping you find the easiest route with the least inclination and the least gear changes. The tool is hosted [here](kunmishra2599.github.io/wecycle).
+This is a tool to help make cycling easier and more fun for you, by helping you find the easiest route with the least inclination and the least gear changes. The tool is hosted [here](http://kunmishra2599.github.io/wecycle).
 
 This tool is written with HTML, CSS and Vanilla Javascript. It uses the Google Maps API, the Google Elevation API and the Geocoder API. 
 We take in inputs in the form of pincode locations, which are then converted to Latitude and Longitude values. 
